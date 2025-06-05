@@ -22,12 +22,11 @@ This project is an interactive sales dashboard created using Power BI. It helps 
 2. Open it in Power BI Desktop.
 3. Use the slicers to interact with the data and explore trends.
 
-## Files in This Repository
+## 🔗 Files in this Repository
 
-- sample_sale_dashboard.pbix – Power BI file
-- sales_data_sample.csv – Dataset used
-- Dashboard_Summary.pdf – PDF export of the dashboard
-- PPT_Summary.pptx – Presentation summary of key insights
+- sales_dashboard_powerbi.pbix — Power BI dashboard file
+- sales_dashboard_summary.pptx — PowerPoint summary presentation
+- sales_data_sample.csv — Sample sales dataset
 
 ## Tools Used
 
@@ -35,4 +34,5 @@ This project is an interactive sales dashboard created using Power BI. It helps 
 - Microsoft Excel (for initial data exploration)
 
 ---
+
 Feel free to fork this repository or use it for your own analysis.
